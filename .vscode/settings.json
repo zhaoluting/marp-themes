@@ -1,0 +1,8 @@
+{
+    "markdown.marp.themes": [
+      "./themes/zju.css",
+      "./themes/companyLightBlue.css",
+      "./themes/companySZ.css",
+    ],
+    "vue.features.codeActions.enable": false
+  }
