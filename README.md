@@ -1,16 +1,22 @@
 <img src="https://marp.app/assets/marp-logo.svg" height="30"/>
 
-> 阅读本文推荐方式：克隆[Marp-theme](https://github.com/zhaoluting/marp-themes.git) => 根据《[开始使用](/tool-marp-vscode/#开始使用)》安装插件 => 打开`resource/documentation/marp.md` => 点击“预览”按钮。
+> 阅读本文推荐方式：克隆[Marp-theme](https://github.com/zhaoluting/marp-themes.git) => 根据《[开始使用](#开始使用)》安装插件 => 打开`resource/documentation/marp.md` => 点击“预览”按钮。
 
 ## 主题预览
 
 **marp默认主题**
+
+[在线预览](https://zhaoluting.github.io/marp-themes/)
 ![marp默认主题](./preview/marpDefault.jpg)
 
 **公司浅蓝主题**
+
+[在线预览](https://zhaoluting.github.io/marp-themes/resource/company/lightBlue/promotion.html)
 ![公司浅蓝主题](./preview/companyLightBlue.jpg)
 
 **浙大蓝学术主题**
+
+[在线预览](https://zhaoluting.github.io/marp-themes/resource/university/zju.html)
 ![浙大蓝学术主题](./preview/zju.jpg)
 
 ## 开始使用
