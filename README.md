@@ -1,6 +1,6 @@
 <img src="https://marp.app/assets/marp-logo.svg" height="30"/>
 
-> 阅读本文推荐方式：克隆[Marp-theme](https://github.com/zhaoluting/marp-themes.git) => 根据《[开始使用](#开始使用)》安装插件 => 打开`resource/documentation/marp.md` => 点击“预览”按钮。
+> 阅读本文推荐方式：克隆[marp-themes](https://github.com/zhaoluting/marp-themes.git) => 根据《[开始使用](#开始使用)》安装插件 => 打开`resource/documentation/marp.md` => 点击“预览”按钮。
 
 ## 主题预览
 
